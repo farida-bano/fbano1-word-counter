@@ -15,3 +15,6 @@ Removes the leading and trailing white space and line terminator characters from
 
 The .split() method in TypeScript is used to split a string into an array of substrings based on a specified separator and returns the
 array of substrings.
+
+npx 
+npx fbano1-word-counter
